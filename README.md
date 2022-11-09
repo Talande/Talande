@@ -1,4 +1,13 @@
 ### Hi there 👋
+Hi there 👋 Ankita Here 😄
+🔭 I’m currently Master's student @ Frankfurt University of Applied Sciences.
+🌱 I’m currently learning {GitHub, C#, .Net}
+📫 How to reach me: ankitatalande294@gmail.com
+😄 Pronouns: She/Her
+⚡ Fun fact - Still Learnig
+🌱Location - Frankfurt, Germany
+
+
 
 <!--
 **Talande/Talande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
