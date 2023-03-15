@@ -1,6 +1,6 @@
 ### Hi there 👋
 -   👋 Hi there..Ankita Here 😄
--   🔭 I’m currently Master's student @ Frankfurt University of Applied Sciences.
+-   🔭 Master's student @ Frankfurt University of Applied Sciences.
 -   🌱 I’m currently learning {GitHub, C#, .Net}
 -   📫 How to reach me: ankitatalande294@gmail.com
 -   😄 Pronouns: She/Her
